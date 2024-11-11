@@ -1,0 +1,6 @@
+﻿* text=auto
+*.css text eol=lf
+*.js text eol=lf
+*.cshtml text eol=lf
+*.scss text eol=lf
+*.txt text eol=lf

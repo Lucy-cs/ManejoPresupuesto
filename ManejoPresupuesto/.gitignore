@@ -1,0 +1,11 @@
+﻿# Ignorar archivos y carpetas de Visual Studio
+.vs/
+*.suo
+
+/bin/
+appsettings.Development.json
+
+# Archivos de compilación
+bin/
+obj/
+*.log
