@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\cuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\servicios\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\cuentas\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuentas\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\servicios\\repositoriocuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriocuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\servicios\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\cuentas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuentas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\cuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA72EA2C-2028-4D8F-84CC-39B0413CBEDD}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\lucy_\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -87,137 +75,100 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\.gitattributes",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\.gitattributes",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\.gitattributes",
-              "RelativeToolTip": "ManejoPresupuesto\\.gitattributes",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-11T19:10:17.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\.gitignore",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\.gitignore",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\.gitignore",
-              "RelativeToolTip": "ManejoPresupuesto\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-11T19:03:42.691Z",
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T02:49:24.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Borrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Borrar.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuentas\\Borrar.cshtml",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Borrar.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuentas\\Borrar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T15:03:55.991Z"
+              "WhenOpened": "2024-11-13T22:41:14.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\AutoMapperProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T03:02:30.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Program.cs",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T02:56:21.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Editar.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuentas\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Editar.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuentas\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:49:29.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CuentasController.cs",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CuentasController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CuentasController.cs",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CuentasController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CuentasController.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAswIYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:44:19.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepositorioCuentas.cs",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioCuentas.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioCuentas.cs",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioCuentas.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioCuentas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:38:41.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAIwEoAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:34:53.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Crear.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuentas\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Crear.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuentas\\Crear.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAIBJwC4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:34:49.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABzAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:34:23.86Z"
+              "WhenOpened": "2024-11-13T16:32:41.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T16:10:09.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:01:59.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Categoria.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:51:55.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T15:27:27.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:13:44.785Z",
+              "EditorCaption": ""
             }
           ]
         }
