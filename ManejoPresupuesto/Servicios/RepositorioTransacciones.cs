@@ -50,7 +50,7 @@ namespace ManejoPresupuesto.Servicios
         public async Task<IEnumerable<Transaccion>> ObtenerPorUsuarioId(ParametroObtenerTransaccionesPorUsuario modelo)
         {
             using var connection = new SqlConnection(connectionString);
-            return await connection.QueryAsync<Transaccion>(@"SELECT T.Id, T.Monto, T.FechaTransaccion, C.Nombre AS Categoria, CU.Nombre AS Cuenta, C.TipoOperacionId
+            return await connection.QueryAsync<Transaccion>(@"SELECT T.Id, T.Monto, T.FechaTransaccion, C.Nombre AS Categoria, CU.Nombre AS Cuenta, C.TipoOperacionId, T.Nota
                                                             FROM Transacciones T 
                                                             INNER JOIN Categorias C ON C.Id = T.CategoriaId
                                                             INNER JOIN Cuentas CU ON CU.Id = T.CuentaId
