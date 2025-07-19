@@ -1,6 +1,8 @@
 ﻿# Ignorar archivos y carpetas de Visual Studio
 .vs/
+*.user
 *.suo
+*.vscode/
 
 /bin/
 appsettings.Development.json
@@ -9,3 +11,4 @@ appsettings.Development.json
 bin/
 obj/
 *.log
+*.cache

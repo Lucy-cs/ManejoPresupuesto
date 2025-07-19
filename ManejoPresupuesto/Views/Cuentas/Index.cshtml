@@ -5,7 +5,7 @@
 
     string FormatearBalance(decimal balance)
     {
-        return Math.Abs(balance).ToString("N");
+        return Math.Abs(balance).ToString("N2");
     }
 
     string ObtenerClaseBalance(decimal balance)
@@ -75,8 +75,8 @@
                             var claseCuenta = ObtenerClaseBalance(cuenta.Balance);
                             <li class="list-group-item">
                                 <span>
-                                    
-                                    <strong>@cuenta.Nombre</strong>
+
+                                    <strong><a asp-action="Detalle" asp-route-id="@cuenta.Id">@cuenta.Nombre</a></strong>
                                     <a asp-action="Editar" asp-route-id="@cuenta.Id" class="btn-primary btn">
                                         <i class="bi-pencil-fill"></i>
                                     </a>
